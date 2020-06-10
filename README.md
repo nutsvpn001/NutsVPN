@@ -13,16 +13,16 @@ https://apps.apple.com/us/app/id1473730962
 中国大陆Apple ID：
 
 第一步——下载TestFlight：https://apps.apple.com/cn/app/id899247664
-第二步——下载坚果加速器： https://testflight.apple.com/join/ukZmfbpi 打开后点击「开始测试」按钮，即可安装。提示XX天过期不影响使用，到期前重新安装即可。
+第二步——下载坚果加速器： https://testflight.apple.com/join/QdZrJ9Ya 打开后点击「开始测试」按钮，即可安装。提示XX天过期不影响使用，到期前重新安装即可。
 
 Android：
 
-https://weixin-tec.com/resource/nuts.apk
+https://ekamvv.com/resource/nuts.apk
 
 Mac：
 
-https://weixin-tec.com/resource/nuts_setup.dmg
+https://ekamvv.com/resource/nuts_setup.dmg
 
 Windows：
 
-https://weixin-tec.com/resource/nuts_setup.exe
+https://ekamvv.com/resource/nuts_setup.exe
